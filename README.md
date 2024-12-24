@@ -31,21 +31,6 @@ This repository contains the files and analysis for the first round of the Uplia
 
 3. **Insights and Recommendations**  
    Data-driven suggestions to enhance operational efficiency, customer satisfaction, and business growth.
-
-## Key Findings
-
-- **User Spending**  
-  Dinner is the most lucrative meal type, with the highest average spending.
-
-- **Engagement**  
-  Younger demographics (20–40 years) show the highest engagement and order completion rates.
-
-- **Meal Preferences**  
-  Spaghetti and Grilled Chicken are universally favored dishes.
-
-- **Regional Trends**  
-  Meal preferences vary significantly by location, offering opportunities for tailored campaigns.
-
 ## Usage
 
 1. Clone the repository:
